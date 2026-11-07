@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm Shruti Lakhe 👋
+Aspiring Full Stack Developer | Java • JavaScript • MERN
+I enjoy building practical web applications and strengthening the fundamentals behind them — from user interfaces and REST APIs to databases, authentication, and problem solving.
+- 💻 Focus: Full-stack web development
+- 🌱 Currently strengthening: React, Node.js, Express, MongoDB, Java and SQL
+- 🧩 Interested in: API design, database modelling, application security and clean code
+- 📌 Learning in public through projects, programming exercises and documentation
+Tech I work with
+Area	Technologies
+Languages	Java, JavaScript, C++
+Frontend	HTML, CSS, JavaScript, React
+Backend	Node.js, Express
+Data	MongoDB, SQL
+Tools	Git, GitHub, VS Code
 
-<!--
-**shrutilakhe23/shrutilakhe23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Projects in progress
 
-Here are some ideas to get you started:
+- Orbitara — a career and recruitment platform concept being developed with a MERN-oriented stack.
+  
+- AlumniConnect — an alumni networking and management application.
+- 
+Project repositories and live demos will be linked here once their public versions are ready.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How I approach development
+- Understand the problem before choosing the implementation.
+- Keep code readable and changes focused.
+- Validate inputs and handle error cases.
+- Document setup steps and important design decisions.
+- Test critical flows before calling a feature complete.
+
+Connect with me on :
+- GitHub: @shrutilakhe23
+- LinkedIn: Add your verified LinkedIn URL
+- Portfolio: Coming soon
